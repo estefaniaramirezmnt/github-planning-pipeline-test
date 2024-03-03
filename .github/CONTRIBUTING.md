@@ -12,7 +12,9 @@ Then make your changes and merge them onto your own branches. Once that's done, 
 
 The main contributors are:
 
-- Nia
-- Juanlu
+| Name   | Role          |
+|--------|---------------|
+| Nia    | Front-end dev |
+| Juanlu | Architect     |
 
 Thanks again! :D
